@@ -1,2 +1,2 @@
 # PWM-Speed
-Simples PWM controller based on a 555 timer
+Simple PWM controller based on a 555 timer, for use on a PC fan to control it's speed.
